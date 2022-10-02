@@ -1,1 +1,1 @@
-docker build -t christoofar/cockroachdb-arm64:21.2.4 -t christoofar/cockroachdb-arm64:latest .
+docker build -t bharadwaj6/cockroachdb:22.8.1 -t bharadwaj6/cockroachdb:latest .
